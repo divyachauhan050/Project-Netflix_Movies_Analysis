@@ -5,7 +5,5 @@ This project analyzes the durations of movies on Netflix by year of release and 
 ## About the Datasets
 I have used two different datasets (courtesy of Datacamp).
 
-1. **‘color_data.csv’** contains.
-
-2. **‘netflix_data.csv’** contains. 
+1. **‘netflix_data.csv’** contains data about the different titles one Netflix . 
 
