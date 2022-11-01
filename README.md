@@ -7,4 +7,4 @@ I have used two different datasets (courtesy of Datacamp).
 
 1. **‘netflix_data.csv’** contains data about the different titles on Netflix. The _show id_, _type_ (movie or TV show), relevant information about the title such as _name of the feature_, _the director_, _the cast_, _the country of production_, _release year_, _length_, _genre_, _a brief description_, and _the date when the feature was added to Netflix_ are the attributes describing the records in the table.  
 
-2. **‘color_data.csv’** contains data about the 
+2. **‘color_data.csv’** contains data about the colors for different titles. It is a categorical value that will help in data visualizations.
