@@ -12,4 +12,4 @@ I have used two different datasets (courtesy of Datacamp).
 ## Key Findings
 These are some of the key findings for this project:
 
-1.
+1. as
