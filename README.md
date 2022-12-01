@@ -18,4 +18,4 @@ These are some of the key findings for this project:
 
 3. Many of the films that are **under 60 minutes** fall into genres such as **"Children"**, **"Stand-Up"**, and **"Documentaries"**. These types of films are probably often shorter than **90 minute Hollywood blockbuster**.
 
-4.
+4. People
